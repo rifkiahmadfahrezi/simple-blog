@@ -1,0 +1,14 @@
+blockquote{
+	background-color: #eee;
+	padding: 10px;
+	border-radius: 4px;
+	color: rgba(0,0,0,0.75);
+}
+
+
+.ql-syntax{
+	background-color: #26323b;
+	border-radius: 4px;
+	color: #eee;
+	padding: 10px;
+}
